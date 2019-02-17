@@ -11,8 +11,8 @@ https://web.telegram.org/#/im?p=g272039354
 ------------------------
 
 ### VictoriaAdler
-Project manager; Back-end developer
-http://t.me/elumeylis
+Project manager; Back-end developer  
+http://t.me/elumeylis  
 
 Tel
 +37525-537-9422

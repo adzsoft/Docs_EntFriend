@@ -1,6 +1,6 @@
 ###### Sun Feb 17 17:46:00 EET 2019
 
-# MoneyChief. AlexPerez VictoriaAdler. 201901 Jan. BSU. Minsk Belarus
+# Project Docs. AlexPerez VictoriaAdler VladZamskoi. 201901 Jan. BSU. Minsk Belarus
 
 --------------------------------------------------------------------------------------------
 
@@ -37,7 +37,6 @@
         LifeTime == 3 months  
         && profitability_ratio_per_user = 1.5  
           => monthly subscription = 3 * Costs_of_new_user_acquisition * profitability_ratio_per_user  
-
     2. (for future) partners deals (we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users.  
   
 

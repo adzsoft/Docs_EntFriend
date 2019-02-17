@@ -24,7 +24,7 @@ github.com/meylisday
 
 
 
-## VladZamskoi  
+### VladZamskoi  
 Business Analysis & Sales; iOS & Android dev
 http://t.me/vladZamskoi
 
@@ -37,7 +37,7 @@ v.zamskoi+BankHeap+bsu+minsk+belarus@gmail.com
 github.com/jvlad
 
 
-## AlexPerezChernov
+### AlexPerezChernov
 Business development and Tech Advisor
 https://web.telegram.org/#/im?p=u59691033_15773290228873122941
 
@@ -48,9 +48,8 @@ Email
 Alex.pereztchernov@gmail.com
 
 
-## [LEFT on Feb-16-2019] Artem Pivrik
+### [LEFT on Feb-16-2019] Artem Pivrik
 +37529 2591893
 artempivrik90@gmail.com
 https://github.com/PivrikArtem  
-
 

@@ -28,11 +28,8 @@
       Requests:  
         * Клиент банк для ИП беларусь  
         * Клиент банк для ИП россия  
-
     2. SMM  
-    
     3. off-line PR  
-  
   
   2. Life-time profit brought by one user  
     

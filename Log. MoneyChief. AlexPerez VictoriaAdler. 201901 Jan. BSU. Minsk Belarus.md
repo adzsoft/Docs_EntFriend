@@ -17,7 +17,7 @@ EntFriend
 4. scheduled Next call: [@VladZamskoi, VikaAdler]: Wed, Feb-20-2019, 6:30pm  
 
 5. Agreed on milestone: Sat, Mar-2-2019  
-  apply to @AlexPerez. @VladZ is going to miss it (will be abroad)  
+  apply to @AlexPerez. @VladZamskoi is going to miss it (will be abroad)  
 
 ----
 

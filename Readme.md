@@ -6,16 +6,30 @@
 
 ## Meetings & Calls  
 
-### Call:  [@VladZamskoi, @VikaAdler]  
-### Wed, Feb-20-2019, 6:30pm  
+1. ### Call
+    ### Wed, Feb-20-2019, 6:30pm  
+    assigned to @VladZamskoi
+    assigned to @VikaAdler
 
-### Meeting (advisor feedback): [@VikaAdler, @AlexPerez]  
-### Sat, Mar-2-2019, ?:TIME
+2. ### Meeting (advisor feedback)
+    ### Sat, Mar-2-2019, ?:TIME  
+    assigned to @VikaAdler  
+    assigned to @AlexPerez  
     @VladZamskoi is going to miss it (will be abroad)  
 
 ---
 
 ## Tasks  
+
+5. Web pages UI mocks
+    * Landing page  
+    * Main page of the service (after login)  
+
+    ###### Sun Feb 17 19:46:29 EET 2019
+    ## HIGHEST priority 
+    Assigned to @VladZamskoi: paper&pencil mocks  
+    Assigned to @VikaAdler: implement mocks in Figma web-app  
+
 
 1. Pick color scheme  
     * https://coolors.co/794fd8-56e39f-ef6f6c-d9f0ff-ffffff 
@@ -60,17 +74,6 @@
             ```
     
         2. (for future) partners deals. The value we have: we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users.  
-  
-
-5. Web pages UI mocks
-    * Landing page  
-    * Main page of the service (after login)  
-
-    ###### Sun Feb 17 19:46:29 EET 2019
-    Assigned to [@VladZamskoi, @VikaAdler]:  
-      Vlad:  paper&pencil mocks  
-      VikaAdler:  implement mocks in Figma web-app  
-
 
 6. Data models (BankDocument, Account, etc)  
 

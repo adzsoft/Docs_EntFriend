@@ -7,21 +7,21 @@
 ## Todo
 
 1. Idea description  
-  Ru
+    Ru
   
-  ###### Sun Feb 17 19:40:52 EET 2019
-  Assigned to @VladZ
+    ###### Sun Feb 17 19:40:52 EET 2019
+    Assigned to @VladZ
 
 2. 4 or more user stories  
 
-  ###### Sun Feb 17 19:40:52 EET 2019
-  Assigned to @VladZ
+    ###### Sun Feb 17 19:40:52 EET 2019
+    Assigned to @VladZ
 
 
 3. Unit Economics + justification
 
-  ###### Sun Feb 17 19:40:52 EET 2019
-  Assigned to @VikaAdl
+    ###### Sun Feb 17 19:40:52 EET 2019
+    Assigned to @VikaAdl
   
   1. Costs_of_new_user_acquisition  
     1. Context Ad
@@ -35,6 +35,7 @@
   
   
   2. Life-time profit brought by one user  
+    
     1. 2 month free period + monthly subscription  
       Hypothesis:  
         LifeTime == 3 months  
@@ -47,14 +48,14 @@
   * Landing page  
   * Main page of the service (after login)  
 
-  ###### Sun Feb 17 19:46:29 EET 2019
-  Assigned to [@VladZ, @VikaAdler]: 
-    Vlad:  paper&pencil mocks  
-    VikaAdler:  implement mocks in Figma web-app  
+    ###### Sun Feb 17 19:46:29 EET 2019
+    Assigned to [@VladZ, @VikaAdler]: 
+      Vlad:  paper&pencil mocks  
+      VikaAdler:  implement mocks in Figma web-app  
 
 5. Data models (BankDocument, Account, etc)  
 
-  ###### Sun Feb 17 19:41:36 EET 2019
-  Assigned to @VladZ
+    ###### Sun Feb 17 19:41:36 EET 2019
+    Assigned to @VladZ
 
 

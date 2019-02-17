@@ -2,9 +2,20 @@
 
 # Project Docs. AlexPerez VictoriaAdler VladZamskoi. 201901 Jan. BSU. Minsk Belarus
 
---------------------------------------------------------------------------------------------
+----
 
-## Todo
+## Talks
+
+### Next call:  [@VladZamskoi, VikaAdler]:  
+Wed, Feb-20-2019, 6:30pm  
+
+### Milestone: Sat, Mar-2-2019  
+Apply to @AlexPerez.  
+  @VladZ is going to miss it (will be abroad)  
+
+---
+
+## Tasks
 
 1. Idea description  
     Ru
@@ -24,25 +35,28 @@
     ###### Sun Feb 17 19:40:52 EET 2019
     Assigned to @VikaAdl
   
-  1. Costs_of_new_user_acquisition  
-    1. Context Ad. Requests:  
+    1. Costs_of_new_user_acquisition  
+        1. Context Ad. Requests:  
         * Клиент банк для ИП беларусь  
         * Клиент банк для ИП россия  
-    2. SMM  
-    3. off-line PR  
+        2. SMM  
+        3. off-line PR  
   
-  2. Life-time profit brought by one user  
-    1. 2 month free period + monthly subscription  
-      Hypothesis:  
-        LifeTime == 3 months  
-        && profitability_ratio_per_user = 1.5  
-          => monthly subscription = 3 * Costs_of_new_user_acquisition * profitability_ratio_per_user  
-    2. (for future) partners deals (we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users.  
+    2. Life-time profit brought by one user  
+        1. 2 month free period + monthly subscription  
+            Hypothesis:  
+            ```
+            LifeTime == 3 months  
+            && profitability_ratio_per_user = 1.5  
+            => monthly subscription = 3 * Costs_of_new_user_acquisition * profitability_ratio_per_user  
+            ```
+    
+        2. (for future) partners deals. The value we have: we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users.  
   
 
 4. Web pages UI mocks
-  * Landing page  
-  * Main page of the service (after login)  
+    * Landing page  
+    * Main page of the service (after login)  
 
     ###### Sun Feb 17 19:46:29 EET 2019
     Assigned to [@VladZ, @VikaAdler]:  

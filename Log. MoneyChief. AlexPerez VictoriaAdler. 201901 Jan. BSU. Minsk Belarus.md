@@ -4,20 +4,20 @@
 ----
 
 ###### Sun Feb 17 20:01:05 EET 2019
-2h 10m Call: [@VladZamskoi, @VikaAdler]  
+### 2h 10m Call: [@VladZamskoi, @VikaAdler]  
 
-Todo is defined, tasks assigned  
+1. Todo is defined, tasks assigned  
 
-### New name  
+2. New name  
 EntFriend
 
-Ad slogan:  
-You EntFriend – the best team ever!  
+3. Ad slogan:  
+    You EntFriend – the best team ever!  
 
-### Next call: [@VladZamskoi, VikaAdler]: Wed, Feb-20-2019, 6:30pm  
+4. scheduled Next call: [@VladZamskoi, VikaAdler]: Wed, Feb-20-2019, 6:30pm  
 
-### Milestone: Sat, Mar-2-2019  
-  apply to @AlexPerez
+5. Agreed on milestone: Sat, Mar-2-2019  
+  apply to @AlexPerez. @VladZ is going to miss it (will be abroad)  
 
 ----
 

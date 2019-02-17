@@ -4,7 +4,7 @@
 
 ----
 
-## Talks
+## Meetings
 
 ### Next call:  [@VladZamskoi, VikaAdler]:  
 Wed, Feb-20-2019, 6:30pm  

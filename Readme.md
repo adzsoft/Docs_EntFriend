@@ -73,7 +73,12 @@
             => monthly subscription = 3 * Costs_of_new_user_acquisition * profitability_ratio_per_user  
             ```
     
-        2. (for future) partners deals. The value we have: we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users.  
+        2. (for future) partners deals. The value we have: we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users. 
+
+    UPD     
+    ###### Mon Feb 18 13:09:29 MSK 2019
+    Calculating the unit economics
+    https://docs.google.com/document/d/1vafNY93s2h_FyFRLvyoUfwUBjf-ZRVmoS9ZjKEgXYW8/edit
 
 6. Data models (BankDocument, Account, etc)  
 

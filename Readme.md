@@ -41,6 +41,7 @@
 
 2. Idea description  
     Ru  
+    We save about 1.5 hours per $4.99 monthly  
   
     ###### Sun Feb 17 19:40:52 EET 2019
     Assigned to @VladZamskoi
@@ -54,7 +55,7 @@
 
 4. Unit Economics + justification
 
-    ###### Sun Feb 17 19:40:52 EET 2019
+    ###### Sun Feb 17 19:40:52 EET 2019  
     Assigned to @VikaAdler
   
     1. Costs_of_new_user_acquisition  
@@ -75,10 +76,13 @@
     
         2. (for future) partners deals. The value we have: we know about what kind of expenses business user makes in order to do their business). I. e. we can provide the target ad for these users. 
 
-    UPD     
-    ###### Mon Feb 18 13:09:29 MSK 2019
+    ###### Mon Feb 18 13:09:29 MSK 2019  
     Calculating the unit economics
     https://docs.google.com/document/d/1vafNY93s2h_FyFRLvyoUfwUBjf-ZRVmoS9ZjKEgXYW8/edit
+
+    ###### Wed Feb 20 19:14:39 EET 2019
+    $4.99 – desired maximum monthly subscription  
+
 
 6. Data models (BankDocument, Account, etc)  
 

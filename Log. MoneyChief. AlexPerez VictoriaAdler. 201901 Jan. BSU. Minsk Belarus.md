@@ -1,5 +1,9 @@
 
 
+###### Wed Feb 20 21:15:21 EET 2019
+At around 7pm  
+10m Call: [@VladZamskoi, @VikaAdler]  
+Vika is quite aggressive. VladZamskoi is relaxed but I haven't done anything yet. That's why Vika is quite aggressive actually.  
 
 ----
 

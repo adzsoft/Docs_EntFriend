@@ -2,12 +2,14 @@
 
 # Project Docs. AlexPerez VictoriaAdler VladZamskoi. 201901 Jan. BSU. Minsk Belarus
 
+
 ----
+
 
 ## Meetings & Calls  
 
-1. ### Call
-    ### Wed, Feb-20-2019, 6:30pm  
+1. ### Call  
+    ### Thu, evening, ?:TIME
     assigned to @VladZamskoi
     assigned to @VikaAdler
 
@@ -17,7 +19,9 @@
     assigned to @AlexPerez  
     @VladZamskoi is going to miss it (will be abroad)  
 
+
 ---
+
 
 ## Tasks  
 
@@ -25,8 +29,10 @@
     * Landing page  
     * Main page of the service (after login)  
 
+    ###### Wed Feb 20 21:18:48 EET 2019
+    Priority decreased. @VikaAdler said she can do it together with her designer  
+
     ###### Sun Feb 17 19:46:29 EET 2019
-    ## HIGHEST priority 
     Assigned to @VladZamskoi: paper&pencil mocks  
     Assigned to @VikaAdler: implement mocks in Figma web-app  
 
@@ -43,6 +49,9 @@
     Ru  
     We save about 1.5 hours per $4.99 monthly  
   
+    ###### Wed Feb 20 21:19:34 EET 2019
+    ## HIGHEST priority 
+    
     ###### Sun Feb 17 19:40:52 EET 2019
     Assigned to @VladZamskoi
 

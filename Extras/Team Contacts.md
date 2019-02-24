@@ -25,7 +25,7 @@ github.com/meylisday
 
 
 ### VladZamskoi  
-Business Analysis & Sales; iOS & Android dev
+Business Analysis & Sales; iOS & Android dev  
 http://t.me/vladZamskoi
 
 Tel:

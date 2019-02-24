@@ -1,5 +1,8 @@
 
 
+###### Sat Feb 23 17:04:14 EET 2019
+4h 20m talk in skype [@VladZamskoi, @VikaAdler]  
+
 ###### Wed Feb 20 21:15:21 EET 2019
 At around 7pm  
 10m Call: [@VladZamskoi, @VikaAdler]  

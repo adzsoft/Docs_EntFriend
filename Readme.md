@@ -28,6 +28,9 @@
 
 
 5. Web pages UI mocks
+    Figma workspace:  
+    https://www.figma.com/file/ZEI30G0shatUtH4CAAtQ3Op1/EntFriend-3?node-id=47%3A0
+    
     * Main page of the service (after login)  
 
     * Landing page  

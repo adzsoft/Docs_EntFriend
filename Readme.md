@@ -7,9 +7,16 @@
 
 ------------------------------------------------------------------------------------  
 
+Figma workspace:  
+https://www.figma.com/file/zpxntaQlIt2fotGJYn6Pqk/EntFriend_Copy.-201903-Mar-26
+
+
 ## Tasks  
 
-6. Data models (BankDocument, Account, etc)  
+[] 1. Design cards as alternative to table-view for service page  
+    ###### Tue Mar 26 21:18:34 IST 2019 init
+
+[] 6. Data models (BankDocument, Account, etc)  
 
     ###### Sun Feb 17 19:41:36 EET 2019
     Assigned to @VladZamskoi  
@@ -18,15 +25,9 @@
     Scheduled for tomorrow
 
 
-5. Web pages UI mocks
+[] 5. Web pages UI mocks
     Figma workspace:  
     https://www.figma.com/file/zpxntaQlIt2fotGJYn6Pqk/EntFriend_Copy.-201903-Mar-26
-    
-    * Main page of the service (after login)  
-
-    * Landing page  
-        ###### Sun Feb 24 15:44:50 EET 2019
-        Done partially. Delegated to @VladFid – designer  
     
     ###### Wed Feb 20 21:18:48 EET 2019
     Priority decreased. @VikaAdler said she can do it together with her designer  
@@ -35,9 +36,14 @@
     Assigned to @VladZamskoi: paper&pencil mocks  
     Assigned to @VikaAdler: implement mocks in Figma web-app  
 
+    ###### Tue Mar 26 21:19:10 IST 2019
 
-7. LandingPage: Add Shevron-like arrow to "Начать Бесплатно" button  
-    ###### Tue Mar 26 21:03:19 IST 2019
-    reconsidering
+    
+    [] * Design: Main page of the service (after login)  
+        ###### Sun Feb 17 19:46:29 EET 2019 init
 
+        [] * Design Search dropdown
+            ###### Tue Mar 26 22:56:41 IST 2019
+            Reviewed. It's empty now.  
 
+    

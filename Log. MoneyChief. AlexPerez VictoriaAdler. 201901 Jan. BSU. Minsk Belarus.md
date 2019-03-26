@@ -1,5 +1,25 @@
 
 
+* Design: Landing page  
+        ###### Sun Feb 17 19:46:29 EET 2019 init
+        
+        ###### Sun Feb 24 15:44:50 EET 2019
+        Done partially. Delegated to @VladFid – designer  
+
+        ###### Tue Mar 26 21:20:04 IST 2019
+        "Testimonials" section left to be  
+
+        ###### Tue Mar 26 22:18:13 IST 2019 done
+        
+
+7. LandingPage: Add Shevron-like arrow to "Начать Бесплатно" button  
+    ###### Tue Mar 26 21:03:19 IST 2019
+    reconsidering
+
+    ###### Tue Mar 26 21:07:47 IST 2019
+    we forgot what the task is about  
+
+
 ###### Tue Mar 26 20:34:45 IST 2019
 1st regular sync call session  
 

@@ -9,21 +9,18 @@
 
 ## Tasks  
 
-3. 4 or more user stories  
-
-    ###### Sun Feb 17 19:40:52 EET 2019
-    Assigned to @VladZamskoi
-
-
 6. Data models (BankDocument, Account, etc)  
 
     ###### Sun Feb 17 19:41:36 EET 2019
     Assigned to @VladZamskoi  
 
+    ###### Tue Mar 26 20:50:53 IST 2019
+    Scheduled for tomorrow
+
 
 5. Web pages UI mocks
     Figma workspace:  
-    https://www.figma.com/file/ZEI30G0shatUtH4CAAtQ3Op1/EntFriend-3?node-id=47%3A0
+    https://www.figma.com/file/zpxntaQlIt2fotGJYn6Pqk/EntFriend_Copy.-201903-Mar-26
     
     * Main page of the service (after login)  
 
@@ -40,5 +37,7 @@
 
 
 7. LandingPage: Add Shevron-like arrow to "Начать Бесплатно" button  
+    ###### Tue Mar 26 21:03:19 IST 2019
+    reconsidering
 
 

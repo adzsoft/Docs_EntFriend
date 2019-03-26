@@ -1,5 +1,34 @@
 
 
+###### Sat Mar 2 13:10:42 IST 2019
+
+1. ### Meeting (advisor feedback)
+    ### Sat, Mar-2-2019, ?:TIME  
+    assigned to @VikaAdler  
+    assigned to @AlexPerez  
+    @VladZamskoi is going to miss it (will be abroad)  
+
+    @VikaAdl presented current progress to @AlexPerez. He hasn't yet approved start of coding.  
+
+---
+
+Yesterday night we had call and Skype work session: [@VikaAdl, @VladZamskoi, @vladFidrik].  
+
+Main page list items categories.  
+
+1. By type of human group
+    1. Организация  
+    2. Индивидуал  
+
+2. By type of (role)  
+    1. Банк
+    2. Налоговая
+    3. ФСЗН
+    4. Клиент
+    5. Подрадчик
+    6. Коллега  
+
+
 2. Idea description  
     Ru  
     We save about 1.5 hours per $4.99 monthly  

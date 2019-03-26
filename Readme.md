@@ -5,12 +5,6 @@
 
 ## Meetings & Calls  
 
-1. ### Meeting (advisor feedback)
-    ### Sat, Mar-2-2019, ?:TIME  
-    assigned to @VikaAdler  
-    assigned to @AlexPerez  
-    @VladZamskoi is going to miss it (will be abroad)  
-
 ------------------------------------------------------------------------------------  
 
 ## Tasks  

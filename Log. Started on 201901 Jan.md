@@ -1,16 +1,40 @@
 
 
-###### Fri May 3 16:06:55 IDT 2019
+Call [@VikaAdl, @VladZamskoi]
+    ###### Fri May 3 16:49:47 IDT 2019
+
 Redesigned service page  
-    
+    [x] 1. Design cards as alternative to table-view for service page  
+    ###### Tue Mar 26 21:18:34 IST 2019 init
+    ###### Fri May 3 16:37:19 IDT 2019 done about 2 days ago
 
 Considered fron-end framework to use: Vue.js  
     Based on insights from article:
         'React vs. Vue (vs. Angular)
         '  
             Fri May 3 16:07:34 IDT 2019  
-            https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56
+            https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56  
 
+[] * Design: Main page of the service (after login)  
+        ###### Sun Feb 17 19:46:29 EET 2019 init
+        ###### Fri May 3 16:38:18 IDT 2019 done by this time
+
+###### Thu May 2 2019  
+    Shared v2 ServicePage UI screenshots with @AlexPerezChernov via Telegram  
+    Feedback:  
+        Alex:  
+        > Hi, I don't remember whether you need to take 
+            * persons assigned on a task. It has been omitted from the new version, 
+            * and also there are no any menu / frequents actions at all. I mean it seems you need to go though yours main target activity (user stories), and ensure that everything is presented on UI
+
+        Vlad Zamskoi. iOS & Android. Minsk & Tel-Aviv.
+        > persons assigned on a task
+        – no, they were not assignees in original mockup, they were more like collaborators. Now we have dedicated 4th column for that kind of activity
+        > no any menu / frequents actions at all
+        – It's temporary. Since we can't sync everyday (I'm too busy) fron-end developer asked to remove everything that's not needed to be implemented in the beginning. We're going to add a bit more of menus later.
+
+###### Apr 11 2019 init
+Met @AlexPerezChernov, got his feedback.
 
 * Design: Landing page  
         ###### Sun Feb 17 19:46:29 EET 2019 init

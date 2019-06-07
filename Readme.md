@@ -4,6 +4,9 @@
 
 ## Web pages UI mocks workspace in Figma  
     https://www.figma.com/file/zpxntaQlIt2fotGJYn6Pqk/EntFriend_Copy.-201903-Mar-26
+    
+## Unit economics
+    https://docs.google.com/document/d/1vafNY93s2h_FyFRLvyoUfwUBjf-ZRVmoS9ZjKEgXYW8/edit#heading=h.cs5o51amrcoz
 
 
 
